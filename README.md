@@ -2,11 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+## Dracula
 
-This project is a starting point for a Flutter application.
+Some cool design using flutter.
 
-A few resources to get you started if this is your first Flutter project:
+![alt text](images/dracula1.png "Dracula")
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
